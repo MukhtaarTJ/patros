@@ -1,0 +1,13 @@
+.img{
+    max-width: 100%;
+}
+.text_layout{
+    width: 100%;
+    margin:1rem auto;
+}
+.text{
+    text-align: center;
+    
+}
+@media (max-width: 770px) {
+}
